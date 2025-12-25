@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hi,%20I'm%20Sarthak%20Dey!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hi,%20I'm%20Sarthak%20Dey!&fontSize=42&fontColor=ffffff&animation=fadeIn&backgroundImage=https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80)" />
 </p>
 
 <p align="center">
@@ -47,23 +47,12 @@
 
 ## 📌 Featured Projects
 
-🚀 **IPO Information Platform**  
-Django REST API + PostgreSQL providing IPO listings, details & analytics.
-
-📊 **Sorting Visualizer**  
-Java GUI app to visualize sorting algorithms step-by-step.
-
-💼 **Job Board System**  
-Full-stack platform with employer & candidate dashboards.
-
-📈 **Data Analytics Dashboards**  
-Python & SQL dashboards for insights and reports.
-
-🧮 **DSA Practice Repository**  
-Collection of solved DSA problems in C, Java & Python.
-
-🌐 **Personal Portfolio Website**  
-Responsive portfolio using HTML, CSS & Bootstrap.
+🚀 **IPO Information Platform** – Django REST + PostgreSQL providing IPO listings, details & analytics.  
+📊 **Sorting Visualizer** – Java GUI app visualizing sorting algorithms step-by-step.  
+💼 **Job Board System** – Full-stack platform with employer & candidate dashboards.  
+📈 **Data Analytics Dashboards** – Python & SQL dashboards for insights & reporting.  
+🧮 **DSA Practice Repository** – Solved DSA problems in C, Java & Python.  
+🌐 **Personal Portfolio Website** – Responsive portfolio using HTML, CSS & Bootstrap.  
 
 ---
 
@@ -89,10 +78,10 @@ Responsive portfolio using HTML, CSS & Bootstrap.
 
 ---
 
-## 📈 GitHub Activity Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK-DRAGON-001&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/BLACK-DRAGON-001/BLACK-DRAGON-001/main/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -100,7 +89,7 @@ Responsive portfolio using HTML, CSS & Bootstrap.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BLACK-DRAGON-001&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BLACK-DRAGON-001&theme=tokyonight&no-frame=true" />
 </p>
 
 ---
@@ -114,14 +103,6 @@ Responsive portfolio using HTML, CSS & Bootstrap.
   <a href="mailto:sarthakdbb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BLACK-DRAGON-001/BLACK-DRAGON-001/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
