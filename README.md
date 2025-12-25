@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Hi,%20I'm%20Sarthak%20Dey!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/banner.svg" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 🎓 **3rd Year B.Tech Student at KIIT University**  
 💻 **Coder | Web Developer | Data Analyst**  
-🚀 Passionate about building scalable web apps & data-driven solutions  
+🚀 Passionate about scalable web apps & data-driven solutions  
 
 - 🔭 Working on: **IPO Information Platform**
 - 🌱 Learning: **DSA & Advanced Data Analytics**
@@ -49,12 +49,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLACK-DRAGON-001&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLACK-DRAGON-001&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK-DRAGON-001&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -62,35 +62,16 @@
 ## 🚀 Featured Projects
 
 🔹 **IPO Information Platform**  
-A full-stack web app providing IPO details & analytics.  
-**Tech:** Django, DRF, PostgreSQL, Bootstrap  
-🔗 https://github.com/BLACK-DRAGON-001/ipo-platform  
+Tech: Django, DRF, PostgreSQL  
+🔗 https://github.com/YOUR_GITHUB_USERNAME/ipo-platform  
 
 🔹 **Sorting Visualizer**  
-Java-based visualizer with speed control & step execution.  
-**Tech:** Java, Swing/JavaFX  
-🔗 https://github.com/BLACK-DRAGON-001/sorting-visualizer  
+Tech: Java, Swing/JavaFX  
+🔗 https://github.com/YOUR_GITHUB_USERNAME/sorting-visualizer  
 
 🔹 **Job Board Website**  
-Platform for employers & candidates with authentication.  
-**Tech:** React, Node.js, MongoDB  
-🔗 https://github.com/BLACK-DRAGON-001/job-board  
-
----
-
-## 🏆 Achievements & Activities
-
-- 🎯 Solved **300+ DSA problems** on LeetCode & GFG  
-- 🧠 Strong in **OOP, DBMS, OS, CN**  
-- 👥 Contributor to tech blogs & group projects  
-- 🏅 Participated in hackathons & coding contests  
-- 📚 Always exploring new tools & frameworks  
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/BLACK-DRAGON-001/BLACK-DRAGON-001/blob/output/github-contribution-grid-snake.svg)
+Tech: React, Node.js, MongoDB  
+🔗 https://github.com/YOUR_GITHUB_USERNAME/job-board  
 
 ---
 
@@ -103,7 +84,7 @@ Platform for employers & candidates with authentication.
   <a href="mailto:sarthakdbb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/BLACK-DRAGON-001">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -111,14 +92,8 @@ Platform for employers & candidates with authentication.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BLACK-DRAGON-001&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## 💡 Dev Quote
-
-> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
