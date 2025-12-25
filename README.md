@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Hi,%20I'm%20Sarthak%20Dey!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hi,%20I'm%20Sarthak%20Dey!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Coder;Web+Developer;Data+Analyst;3rd+Year+Student+at+KIIT+University;Python+%7C+Django+%7C+JavaScript&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Coder;Web+Developer;Data+Analyst;3rd+Year+Student+at+KIIT+University;Python+%7C+Django+%7C+JavaScript" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 🎓 **3rd Year B.Tech Student at KIIT University**  
 💻 **Coder | Web Developer | Data Analyst**  
-🚀 Passionate about building scalable web apps & data-driven solutions  
+🚀 Passionate about scalable web apps & data-driven solutions  
 
 - 🔭 Working on: **IPO Information Platform**
 - 🌱 Learning: **DSA & Advanced Data Analytics**
@@ -31,7 +31,7 @@
 
 ### 🌐 Web & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -47,22 +47,52 @@
 
 ## 📌 Featured Projects
 
-🔹 **IPO Information Platform** – Django REST + PostgreSQL  
-🔹 **Sorting Visualizer** – Java GUI animations  
-🔹 **Job Board System** – Full-stack app  
-🔹 **Data Dashboards** – Python & SQL analytics  
+🚀 **IPO Information Platform**  
+Django REST API + PostgreSQL providing IPO listings, details & analytics.
+
+📊 **Sorting Visualizer**  
+Java GUI app to visualize sorting algorithms step-by-step.
+
+💼 **Job Board System**  
+Full-stack platform with employer & candidate dashboards.
+
+📈 **Data Analytics Dashboards**  
+Python & SQL dashboards for insights and reports.
+
+🧮 **DSA Practice Repository**  
+Collection of solved DSA problems in C, Java & Python.
+
+🌐 **Personal Portfolio Website**  
+Responsive portfolio using HTML, CSS & Bootstrap.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Consistent contributor on GitHub  
+- 📚 Strong foundation in DSA & Web Development  
+- 🚀 Building real-world full-stack projects  
+- 🎯 Focused on placement & industry readiness  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLACK-DRAGON-001&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLACK-DRAGON-001&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BLACK-DRAGON-001&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLACK-DRAGON-001&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK-DRAGON-001&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK-DRAGON-001&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK-DRAGON-001&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -91,9 +121,19 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BLACK-DRAGON-001/BLACK-DRAGON-001/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/BLACK-DRAGON-001/BLACK-DRAGON-001/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
+## 👀 Profile Views
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=BLACK-DRAGON-001&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
