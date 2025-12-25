@@ -47,12 +47,25 @@
 
 ## 📌 Featured Projects
 
-🚀 **IPO Information Platform** – Django REST + PostgreSQL providing IPO listings, details & analytics.  
-📊 **Sorting Visualizer** – Java GUI app visualizing sorting algorithms step-by-step.  
-💼 **Job Board System** – Full-stack platform with employer & candidate dashboards.  
-📈 **Data Analytics Dashboards** – Python & SQL dashboards for insights & reporting.  
-🧮 **DSA Practice Repository** – Solved DSA problems in C, Java & Python.  
-🌐 **Personal Portfolio Website** – Responsive portfolio using HTML, CSS & Bootstrap.  
+<p align="center">
+  <a href="https://github.com/BLACK-DRAGON-001/IPO-Information-Platform" target="_blank">
+    <img src="https://images.unsplash.com/photo-1581090700227-2f5cde8d90b1?crop=entropy&cs=tinysrgb&fit=max&h=150&w=250" alt="IPO Platform" style="margin:10px; border-radius:10px;" />
+  </a>
+  <a href="https://github.com/BLACK-DRAGON-001/Sorting-Visualizer" target="_blank">
+    <img src="https://images.unsplash.com/photo-1603791440384-56cd371ee9b2?crop=entropy&cs=tinysrgb&fit=max&h=150&w=250" alt="Sorting Visualizer" style="margin:10px; border-radius:10px;" />
+  </a>
+  <a href="https://github.com/BLACK-DRAGON-001/Job-Board-System" target="_blank">
+    <img src="https://images.unsplash.com/photo-1590608897129-79c95e68e7d8?crop=entropy&cs=tinysrgb&fit=max&h=150&w=250" alt="Job Board" style="margin:10px; border-radius:10px;" />
+  </a>
+  <a href="https://github.com/BLACK-DRAGON-001/Data-Analytics-Dashboards" target="_blank">
+    <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&h=150&w=250" alt="Data Dashboards" style="margin:10px; border-radius:10px;" />
+  </a>
+  <a href="https://github.com/BLACK-DRAGON-001/Personal-Portfolio" target="_blank">
+    <img src="https://images.unsplash.com/photo-1521790797524-b2497295b8b0?crop=entropy&cs=tinysrgb&fit=max&h=150&w=250" alt="Portfolio" style="margin:10px; border-radius:10px;" />
+  </a>
+</p>
+
+*Hover over the images to see the project name! Click to open the repo.*
 
 ---
 
